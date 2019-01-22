@@ -10,7 +10,7 @@ deployment speed by 20% and reducing operational costs by X. ZeroOps is focused
 on helping organizations increase velocity and save operations costs by
 eliminating the need for operations in the day-to-day SDLC.
 
-![TEST](img/zerops-marketecture.png)
+![TEST](img/zerops-marketecture.png =480x360)
 
 ### Features
 
