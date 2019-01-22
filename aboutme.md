@@ -33,6 +33,7 @@ networks.
 
 **Lightning Fast, Low latency code execution** allows developers to deploy
 functions and microservices over 20% faster than any other serverless offering.
+:+1:
 
 **Deploy on any cloud -**  ZerOps can deploy to any Kubernetes cluster which
 eliminates cloud lock-in and allows organizations to choose the cloud of best
