@@ -22,3 +22,18 @@ Choose to deploy only if tests pass
 
 **Schedule periodic runs**
 In plain English or Cron syntax
+
+### Benefits
+
+**No Ops -** developers are completely abstracted away from the operations of
+apps. Developers deploy code and ZerOps runs, scales and manages application
+based on demand. The developer experience is completely serverless, meaning that
+they can focus on shipping code and not worry about containers, servers and
+networks.
+
+**Lightning Fast, Low latency code execution -** allows developers to deploy
+functions and microservices over 20% faster than any other serverless offering.
+
+**Deploy on any cloud -**  ZerOps can deploy to any Kubernetes cluster which
+eliminates cloud lock-in and allows organizations to choose the cloud of best
+fit for an application.
