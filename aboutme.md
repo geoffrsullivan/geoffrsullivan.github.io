@@ -31,9 +31,18 @@ based on demand. The developer experience is completely serverless, meaning that
 they can focus on shipping code and not worry about containers, servers and
 networks.
 
-**Lightning Fast, Low latency code execution -** allows developers to deploy
+**Lightning Fast, Low latency code execution** allows developers to deploy
 functions and microservices over 20% faster than any other serverless offering.
 
 **Deploy on any cloud -**  ZerOps can deploy to any Kubernetes cluster which
 eliminates cloud lock-in and allows organizations to choose the cloud of best
 fit for an application.
+
+### Product Components
+
+**Cloud-based Serverless Platform** automates all server side operations, enabling
+developers to deploy functions and distributed web apps on any cloud.
+
+**Client Side CLI** takes care of everything you need in order to write and deploy code.
+
+**Powerful extensions** integrate the CLI with popular developers tools, so they never leave them.
