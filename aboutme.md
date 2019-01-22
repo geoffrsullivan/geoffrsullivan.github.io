@@ -4,13 +4,20 @@ title: About ZerOps
 subtitle: Serverless Software Development Platform
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+ZeroOps, is a Serverless Software Development Platform that allows developers to
+run functions and microservices on any cloud, consumed as-a-service, increasing
+deployment speed by 20% and reducing operational costs by X. ZeroOps is focused
+on helping organizations increase velocity and save operations costs by
+eliminating the need for operations in the day-to-day SDLC.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### Features
 
-### my history
+**Unmatched native performance**
+Up to 20x faster than AWS Lambda
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Built-in test automation**
+Choose to deploy only if tests pass
+
+**Schedule periodic runs**
+In plain English or Cron syntax
